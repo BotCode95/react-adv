@@ -40,7 +40,7 @@ export const ShoppingPage = () => {
                 </ProductCard>
 
                 
-                <ProductCard 
+                {/* <ProductCard 
                     product={product}
                     style={{
                         backgroundColor: '#70D1F8'
@@ -58,7 +58,7 @@ export const ShoppingPage = () => {
                             justifyContent: 'end'
                         }}
                     />
-                </ProductCard>
+                </ProductCard> */}
 
             </div>
         </div>
