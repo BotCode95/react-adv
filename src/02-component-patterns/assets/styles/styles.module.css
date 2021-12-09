@@ -1,5 +1,7 @@
 
-
+nav {
+    overflow-y: hidden;
+}
 .productCard {
     background-color: white;
     border-radius: 15px;
